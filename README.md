@@ -36,7 +36,7 @@
 1. **Клонирование репозитория**:
    ```bash
         git@github.com:askerovasif19933-stack/asinc_alchemy.git    
-   cd test_task
+   cd test_task_async_sqlalchemy
    ```
 
 2. **Настройка переменных окружения: создайте файл .env на основе [.env.example](./.env.example) и заполните его  данными для подключения к базе данных.**
