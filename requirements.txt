@@ -1,0 +1,11 @@
+﻿
+    asyncpg=0.30.0,
+    gitignore-cli=1.0.4,
+    psycopg2=2.9.11,
+    python-dotenv=1.2.1,
+    sqlalchemy=2.0.44,
+
+
+
+
+
