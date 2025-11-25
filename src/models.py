@@ -13,6 +13,7 @@ import json
 
 class JSONBString(TypeDecorator):
     impl = JSONB
+    cache_ok = True
     def process_bind_param(self, value, dialect):
         if isinstance(value, str):
             # преобразуем строку в dict
